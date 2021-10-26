@@ -1,0 +1,21 @@
+
+Epoch 1/20
+   6/2618 [..............................] - ETA: 9:53 - loss: 3.6018 - accuracy: 0.1205WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0810s vs `on_train_batch_end` time: 0.1395s). Check your callbacks.
+2618/2618 [==============================] - 698s 265ms/step - loss: 0.7233 - accuracy: 0.7527 - val_loss: 0.3800 - val_accuracy: 0.8352
+Epoch 2/20
+2618/2618 [==============================] - 694s 265ms/step - loss: 0.3119 - accuracy: 0.8679 - val_loss: 0.2697 - val_accuracy: 0.8880
+Epoch 3/20
+2618/2618 [==============================] - 693s 265ms/step - loss: 0.2134 - accuracy: 0.9132 - val_loss: 0.2018 - val_accuracy: 0.9192
+Epoch 4/20
+2618/2618 [==============================] - 692s 264ms/step - loss: 0.1460 - accuracy: 0.9424 - val_loss: 0.1639 - val_accuracy: 0.9359
+Epoch 5/20
+2618/2618 [==============================] - 690s 263ms/step - loss: 0.0980 - accuracy: 0.9622 - val_loss: 0.1531 - val_accuracy: 0.9421
+Epoch 6/20
+2618/2618 [==============================] - 689s 263ms/step - loss: 0.0646 - accuracy: 0.9754 - val_loss: 0.1653 - val_accuracy: 0.9432
+Epoch 7/20
+2618/2618 [==============================] - 689s 263ms/step - loss: 0.0432 - accuracy: 0.9837 - val_loss: 0.1865 - val_accuracy: 0.9431
+Epoch 8/20
+2618/2618 [==============================] - 690s 263ms/step - loss: 0.0313 - accuracy: 0.9883 - val_loss: 0.2016 - val_accuracy: 0.9439
+Epoch 9/20
+2618/2618 [==============================] - 690s 264ms/step - loss: 0.0244 - accuracy: 0.9909 - val_loss: 0.2178 - val_accuracy: 0.9452
+Stopping training as desired accuracy reached....
